@@ -1,4 +1,6 @@
 Fake News Detection - Project Overview
+
+
 This project builds a machine learning model that automatically classifies news articles as real or fake. It follows a complete machine learning workflow:
 
 Data Loading: The dataset is sourced from [Fake and Real News Dataset on Kaggle](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset).
